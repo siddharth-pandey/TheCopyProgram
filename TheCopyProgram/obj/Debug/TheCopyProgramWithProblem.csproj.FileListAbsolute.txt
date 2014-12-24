@@ -1,0 +1,6 @@
+C:\temp\Git Projects\TheCopyProgram\TheCopyProgram\bin\Debug\TheCopyProgram.exe.config
+C:\temp\Git Projects\TheCopyProgram\TheCopyProgram\bin\Debug\TheCopyProgram.exe
+C:\temp\Git Projects\TheCopyProgram\TheCopyProgram\bin\Debug\TheCopyProgram.pdb
+C:\temp\Git Projects\TheCopyProgram\TheCopyProgram\obj\Debug\TheCopyProgramWithProblem.csprojResolveAssemblyReference.cache
+C:\temp\Git Projects\TheCopyProgram\TheCopyProgram\obj\Debug\TheCopyProgram.exe
+C:\temp\Git Projects\TheCopyProgram\TheCopyProgram\obj\Debug\TheCopyProgram.pdb

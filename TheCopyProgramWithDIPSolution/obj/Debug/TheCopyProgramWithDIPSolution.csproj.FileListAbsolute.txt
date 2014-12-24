@@ -1,0 +1,6 @@
+C:\temp\Git Projects\TheCopyProgram\TheCopyProgramWithDIPSolution\bin\Debug\TheCopyProgramWithDIPSolution.exe.config
+C:\temp\Git Projects\TheCopyProgram\TheCopyProgramWithDIPSolution\bin\Debug\TheCopyProgramWithDIPSolution.exe
+C:\temp\Git Projects\TheCopyProgram\TheCopyProgramWithDIPSolution\bin\Debug\TheCopyProgramWithDIPSolution.pdb
+C:\temp\Git Projects\TheCopyProgram\TheCopyProgramWithDIPSolution\obj\Debug\TheCopyProgramWithDIPSolution.csprojResolveAssemblyReference.cache
+C:\temp\Git Projects\TheCopyProgram\TheCopyProgramWithDIPSolution\obj\Debug\TheCopyProgramWithDIPSolution.exe
+C:\temp\Git Projects\TheCopyProgram\TheCopyProgramWithDIPSolution\obj\Debug\TheCopyProgramWithDIPSolution.pdb
